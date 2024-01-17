@@ -36,5 +36,3 @@ UI/UX Design
 - Email: abdallahaljehani926@gmail.com 📧
 - LinkedIn: https://www.linkedin.com/in/abdullah-jehani/ 💼
 - GitHub: https://github.com/Abdullah-Jehani 🐙
-
-- https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35
